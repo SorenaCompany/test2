@@ -1,1 +1,1 @@
-# Water temprature sensor with a 2-digit seven segment
+# Water temprature sensor with a 2-digit seven segment.
